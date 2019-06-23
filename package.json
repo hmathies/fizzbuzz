@@ -1,0 +1,33 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "A chat application built with node, mongodb, express, and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmathies/fizzbuzz.git"
+  },
+  "keywords": [
+    "node",
+    "socket.io",
+    "express",
+    "mongodb"
+  ],
+  "author": "Heather Mathies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmathies/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/hmathies/fizzbuzz#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dependable": "^1.1.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "express-promise-router": "^3.0.3",
+    "lodash": "^4.17.11"
+  }
+}
